@@ -9,7 +9,7 @@ We explore a few variants of NN classifiers using word embeddings:
 Adapted from code at https://github.com/fchollet/keras/blob/master/examples/imdb_cnn.py
 
 ## Import modules
-### Set parameters
+* Set parameters
 
 ## Loading data
 
@@ -37,21 +37,21 @@ The `compile` method takes three arguments:
 - An optimizer. The name of an existing optimizer (such as `rmsprop` or `adagrad`), or an instance of the Optimizer class.
 - A list of metrics. For any classification problem you will want to set this to `metrics=['accuracy']`. A metric could be the name of an existing metric or a custom metric function.
 
-### Show model
-### Train the model
-### Evaluate
+* Show model
+* Train the model
+* Evaluate
 ## Perceptron with Embeddings
-### Show the model
-### Training
-### Testing
-### Evaluation
+* Show the model
+* Training
+* Testing
+* Evaluation
 ## Exploring the fine-tuned embeddings
-### Evaluation
-### Explore
+* Evaluation
+* Explore
 ## Perceptron with pretrained embeddings
-### Perceptron Model
-### Train the model
-### Evaluate
+* Perceptron Model
+* Train the model
+* Evaluate
 ## Convolutional Neural Network
-### Train the model
-### Evaluate
+* Train the model
+* Evaluate
