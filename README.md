@@ -17,7 +17,7 @@ We will use the `Movie Review dataset` from https://www.kaggle.com/pankrzysiu/ke
 It contains 50,000 highly polarized reviews, preprocessed, tokenized, indexed and stored into numpy arrays.
 
 By convention, index 0 is reserved for padding, hence set `index_from=1`.
-### Split train data into train and validation.
+* Split train data into train and validation.
 
 ## Perceptron with one-hot representations
 
